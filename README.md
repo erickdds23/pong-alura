@@ -1,4 +1,4 @@
-<h1 align:"center">
+<h1 align="center">
 
 ![Logotipo Tecnologia Moderno Verde](https://user-images.githubusercontent.com/126195861/225995923-8e6b787c-e80e-48de-bf44-beeb11cad4ae.svg)
 
