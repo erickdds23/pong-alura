@@ -13,14 +13,14 @@
 ### Link de produção: https://pong-alura.vercel.app/
 
 #### Como funciona o projeto?
-  Utilizando a tecla ***W*** você move a raquete esquerda para cima
+  Utilizando a tecla ***W*** você move a raquete direita para cima
   
-  Utilizando a tecla ***S*** você move a raquete esquerda para baixo
+  Utilizando a tecla ***S*** você move a raquete direita para baixo
   
   
-  Utilizando a tecla ***seta para cima*** você move a raquete direita para cima 
+  Utilizando a tecla ***seta para cima*** você move a raquete esquerda para cima 
   
-  Utilizando a tecla ***seta para baixo*** vocẽ move a raquete direita para baixo
+  Utilizando a tecla ***seta para baixo*** vocẽ move a raquete esquerda para baixo
 
 ### Quais foram as dificuldades do projeto?
     Tive uma certa dificuldade para entender e utilizar o p5.collide2d para registrar a colisão da bolinha com as raquetes.
